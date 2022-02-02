@@ -2,7 +2,7 @@
 	"song": {
 		"speed": 2.6,
 		"stage": "better",
-		"player1": "bfwhit",
+		"player1": "bf",
 		"player2": "testis",
 		"player3": null,
 		"events": [

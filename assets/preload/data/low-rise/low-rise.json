@@ -1,7 +1,7 @@
 {
 	"song": {
 		"sectionLengths": [],
-		"player1": "bfwhit",
+		"player1": "bf",
 		"events": [
 			[
 				18000,
@@ -4647,7 +4647,7 @@
 			}
 		],
 		"player2": "testis",
-		"player3": "gf_but_not_juicy_enough",
+		"player3": null,
 		"song": "Low-Rise",
 		"stage": "better",
 		"validScore": true,
